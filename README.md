@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi There 👋
 
-I'm a Full Stack MERN Developer who enjoys building clean, scalable, and real-world web applications. I love working across the entire stack, with a strong interest in backend development, API design, and database optimization.
+###I'm a Full Stack MERN Developer who enjoys building clean, scalable, and real-world web applications. I love working across the entire stack, with a strong interest in backend development, API design, and database optimization.
 
-I’ve built hands-on projects like a Reliance Digital–inspired e-commerce platform, where I implemented product management, order workflows, role-based access control, and efficient MongoDB queries.
+###I’ve built hands-on projects like a Reliance Digital–inspired e-commerce platform, where I implemented product management, order workflows, role-based access control, and efficient MongoDB queries.
 
-I’m constantly learning, improving my problem-solving skills, and open to collaborating on impactful projects that challenge me and create real value.
+###I’m constantly learning, improving my problem-solving skills, and open to collaborating on impactful projects that challenge me and create real value.
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@ I’m constantly learning, improving my problem-solving skills, and open to coll
 ![](https://nirzak-streak-stats.vercel.app/?user=AshutoshPatil14&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPatil14&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshutoshPatil14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AshutoshPatil14&icon=0&color=0)](https://visitcount.itsvg.in)
