@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi There 👋
+### Hi There 👋
 
-###I'm a Full Stack MERN Developer who enjoys building clean, scalable, and real-world web applications. I love working across the entire stack, with a strong interest in backend development, API design, and database optimization.
+### I'm a Full Stack MERN Developer who enjoys building clean, scalable, and real-world web applications. I love working across the entire stack, with a strong interest in backend development, API design, and database optimization.
 
-###I’ve built hands-on projects like a Reliance Digital–inspired e-commerce platform, where I implemented product management, order workflows, role-based access control, and efficient MongoDB queries.
+### I’ve built hands-on projects like a Reliance Digital–inspired e-commerce platform, where I implemented product management, order workflows, role-based access control, and efficient MongoDB queries.
 
-###I’m constantly learning, improving my problem-solving skills, and open to collaborating on impactful projects that challenge me and create real value.
+### I’m constantly learning, improving my problem-solving skills, and open to collaborating on impactful projects that challenge me and create real value.
 
 
 ## 🌐 Socials:
